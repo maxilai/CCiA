@@ -3,7 +3,7 @@
 
 void hello()
 {
-    std::cout<<"Hello Concurrent World\n";
+    std::cout<<"Hello Concurrent Max's World\n";
 }
 
 int main()
